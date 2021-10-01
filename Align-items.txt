@@ -1,0 +1,13 @@
+Align-items
+
+Trata do alinhamento dos flex itens de acordo com o eixo do container.
+O alinhamento é diferente para quando os itens estão em colunas ou linhas.
+Permite o alinhamento central no eixo vertical.
+
+- center
+- stretch
+- flex-start
+- flex-end
+- baseline
+
+[Código no codepen](https://codepen.io/priscila-une/pen/gORyaMq)
