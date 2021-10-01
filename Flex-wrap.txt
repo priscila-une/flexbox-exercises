@@ -1,0 +1,11 @@
+Flex-wrap
+
+É a propriedade que define se os itens devem ou não quebrar a linha.
+Por padrão eles não quebram linhas, isso faz com que os flex itens
+sejam compactados além do limite do conteúdo.
+
+- nowrap (padrão)
+- wrap
+- wrap-reverse
+
+[Código no Codepen](https://codepen.io/priscila-une/pen/GREeWBm)
