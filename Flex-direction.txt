@@ -1,0 +1,16 @@
+Display Flex
+
+Torna a tag um elemento do tipo flex container, e assim automaticamente todos os seus filhos diretos desta tag, tornam-se flex items.
+
+Flex-direction
+
+É a propriedade que estabelece o eixo principal do container,
+definindo assim a direção que os flex items são colocados no flex
+container.
+
+- row (padrão)
+- row-reverse
+- column 
+- column-reverse
+
+[Código no Codepen](https://codepen.io/priscila-une/pen/PopzdpL?editors=1100)
