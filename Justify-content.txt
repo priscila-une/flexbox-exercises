@@ -1,0 +1,14 @@
+Justify-content
+
+Essa propriedade vai se encarregar de alinhar os itens dentro do container
+de acordo com a direção pretendida e tratar da distribuição de espaçamento entre eles.
+
+OBS: caso seus itens esteja ocupando 100% de todo o container, ela não se aplica
+
+- flex-start
+- flex-end 
+- center
+- space-between
+- space-around
+
+[Código no codepen](https://codepen.io/priscila-une/pen/dyRrwNb)
